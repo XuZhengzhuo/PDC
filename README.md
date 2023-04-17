@@ -9,7 +9,7 @@ This repository is the official PyTorch implementation of the [paper](https://ar
 </p>
 &nbsp;
 
-we propose Prediction Distribution Calibration (PDC) to quantitatively evalate how proposals overcome model head preferance in LTR.
+We propose Prediction Distribution Calibration (PDC) to quantitatively evalate how proposals overcome model head preferance in LTR.
 
 
 ## Usage
