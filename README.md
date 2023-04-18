@@ -1,4 +1,4 @@
-# Rethink Long-Tailed Recognition with Vision Transforms
+# Rethink Long-Tailed Recognition with Vision Transformers
 
 Zhengzhuo Xu1, Shuo Yang1, Xingjun Wang1, Chun Yuan
 
