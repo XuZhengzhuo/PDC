@@ -40,7 +40,7 @@ If you find our idea or code inspiring, please cite our paper:
                   Yang, Shuo and
                   Wang, Xingjun and
                   Yuan, Chun},
-  title        = {Rethink Long-Tailed Recognition with Vision Transforms},
+  title        = {Rethink Long-Tailed Recognition with Vision Transformers},
   booktitle    = {{IEEE} International Conference on Acoustics, Speech and Signal Processing, {ICASSP} 2023},
   year         = {2023}
 }
