@@ -1,6 +1,6 @@
 # Rethink Long-Tailed Recognition with Vision Transformers
 
-Zhengzhuo Xu1, Shuo Yang1, Xingjun Wang1, Chun Yuan
+Zhengzhuo Xu, Shuo Yang, Xingjun Wang, Chun Yuan
 
 This repository is the official PyTorch implementation of the [paper](https://arxiv.org/abs/2302.14284) in ICASSP 2023.
 &nbsp;
